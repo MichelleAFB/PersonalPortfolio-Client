@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.app {
+  padding:5px;
+}
+
+/*
+.github-icon {
+  background-image: url("./media/github.svg");
+  height:50px;
+}
+
+.linkedIn-icon {
+  background-image: url("./media/linkedin.svg");
+  height:50px;
+}
+*/
