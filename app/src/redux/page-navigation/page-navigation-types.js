@@ -1,0 +1,5 @@
+
+export const GO_TO_PROJECTS_PAGE="GO_TO_PROJECTS_PAGE"
+export const GO_TO_ABOUT_ME="VGO_TO _ABOUT_ME"
+export const GO_TO_CONTACT_PAGE="GO_TO_CONTACT_PAGE"
+export const GO_TO_PAGE="GO_TO_PAGE"
