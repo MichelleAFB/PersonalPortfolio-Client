@@ -21,7 +21,6 @@ function Entry() {
             <SocialIcon  className="m-5  h-50 w-50 fill-white" url="https://instagram.com/_mirchoe_" bgColor="white" />
           </a>  
           <a href="https://github.com/MichelleAFB">
-            Changes
             <SocialIcon  className="m-5  h-50 w-50 fill-white" url="https://github.com/MichelleAFB" bgColor="white" />
           </a>
         </div>
