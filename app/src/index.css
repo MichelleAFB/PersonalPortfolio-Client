@@ -17,3 +17,16 @@
   height:50px;
 }
 */
+#hero {
+  position: fixed;
+  left: 0;
+  right: 0;
+  height: 85px;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body{
+  
+}
