@@ -20,10 +20,7 @@ function Main() {
        
         <p class="mt-3"> All of this was previously handles manually with phone call,texts, and emails.It is now handled by this app</p>
          <a href="https://d1o2b8b1k31add.cloudfront.net">See here:</a>
-    <button class="h-15 w-200 pr-10 pl-10 bg-red-100 rounded-md" onClick={() => {
-        dispatch(changePages("NEW PAGE"))
-    }}>click</button>
-    <p class="text-6xl">HELLOOOOOO</p>
+
       </div>
     </div>
   )

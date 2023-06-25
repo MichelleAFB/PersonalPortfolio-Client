@@ -4,9 +4,9 @@ import './index.css';
 import App from './App';
 import { Provider } from 'react-redux'
 import {store} from './store'
-import {Navbar2,Hero,Business,Billing,Clients} from './components'
 
 
+ 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>

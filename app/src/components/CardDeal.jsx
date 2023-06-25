@@ -1,9 +1,9 @@
 import React from 'react'
 
-function CarDeal() {
+function CardDeal() {
   return (
     <div>CarDeal</div>
   )
 }
 
-export default CarDeal
+export default CardDeal
