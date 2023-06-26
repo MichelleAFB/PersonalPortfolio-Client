@@ -39,6 +39,7 @@ function Home() {
               </p>
               <Main/>
               <GhanHomeStayCard/>
+              <Leetcodetracker/>
              
           </div>
         </div>
