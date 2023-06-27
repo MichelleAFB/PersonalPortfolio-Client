@@ -9,6 +9,7 @@ import styles from '../styles'
 import {Hero2,Business,Billing,Clients,CardDeal} from '../components'
 import Navbar from '../components/Navbar'
 import GhanHomeStayCard from '../components/GhanHomeStayCard'
+import LeetcodeTracker from '../components/LeetcodeTracker'
 function Home() {
 
   const dispatch =useDispatch()
@@ -39,7 +40,7 @@ function Home() {
               </p>
               <Main/>
               <GhanHomeStayCard/>
-              <Leetcodetracker/>
+              <LeetcodeTracker/>
              
           </div>
         </div>

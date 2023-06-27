@@ -12,7 +12,7 @@ function Entry() {
   return (
     <div className="min-h-screen #4d7c0f grid place-items-center">
       <div className="flex ">
-        <div className="flex-cols-3 p-5 gap-x-5 h-1/3">
+        <div className="flex-cols-3 gap-x-5 ">
          
          <a href="www.linkedin.com/in/michelle-badu-54a03a134">
             <SocialIcon className="m-5 h-50 w-50 shadow-xl" url="https://LinkedIn.com/in/michelle-badu-54a03a134" bgColor="white"  />

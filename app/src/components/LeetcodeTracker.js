@@ -15,7 +15,7 @@ function LeetcodeTracker() {
       <li>See when you last practiced a questiong</li>
       <li>Get reminded to practice questions not practiced in a while</li>
      </ul>
-      <a class="text-white" href="https://ghanahomerental.onrender.com/">See here: <span class="text-cyan-500">https://ghanahomerental.onrender.com/</span> </a>
+      <a class="text-white" href="https://leetcodetrackerclient.onrender.com">See here: <span class="text-cyan-500">hhttps://leetcodetrackerclient.onrender.com</span> </a>
 
    </div>
  </div>
