@@ -4,7 +4,7 @@ function LeetcodeTracker() {
   return (   <div class="bg-yellow-400 block-inline mt-5">
     <div class=" block bg-gray-500 h-600 p-10  w-full mb-0">
    <p class=" text-base text-white hover:text-purple-800 text-xl">
-        Ghana Home Stay Rental
+        leetcode Tracker
        </p>
      <p class="mt-3 text-gray-300"> Track and continusly practice your Leetcode Question</p>
    
