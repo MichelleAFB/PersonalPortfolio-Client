@@ -36,15 +36,13 @@ function Business() {
 
   return (
     <section id="features" className={layout.section}>
-    <div className={layout.sectionInfo}>
-      <h2 className={styles.heading2}>
-        About Me
-      </h2>
-      <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      I graduated with a Bachelors in Computer Science in August 2022 from UT Dallas. Since then I development web applications to make interacting with the world a simpler!
+    <div class="flex w-full flex-col jusitfy-center">
+    
+      <p className={`${styles.paragraph}`}>
+      I graduated with a Bachelors in Computer Science in August 2022 from UT Dallas. Since then I development web applications to make interacting with the world a bit simpler!
      
       </p>
-      <p class="text-white text-center text-large">ReactJs, NodeJs, SpringBoot,MongoDb,Sql</p>
+      <p class="text-cyan-400 text-center text-lg">ReactJs, NodeJs, SpringBoot,MongoDb,Sql</p>
       
     
       <div className={`${styles.flexStart} flex-row`} onClick={() => {

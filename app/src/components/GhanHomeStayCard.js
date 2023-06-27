@@ -2,9 +2,9 @@ import React from 'react'
 
 function GhanHomeStayCard() {
   return (
-    <div class="bg-yellow-400 block-inline mt-5">
-    <div class=" block bg-gray-500 h-600 p-10  w-full mb-0">
-   <p class=" text-base text-white hover:text-purple-800 text-xl">
+    <div class="block-inline mt-5">
+    <div class=" block bg-gray-500 h-600 p-10  w-full mb-0 rounded-md">
+   <p class=" text-cyan-500 text-white hover:text-purple-800 text-2xl">
         Ghana Home Stay Rental
        </p>
      <p class="mt-3 text-gray-300"> Allow customers to book stays at a vacation home in Ghana</p>
