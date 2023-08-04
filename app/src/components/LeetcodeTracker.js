@@ -15,7 +15,14 @@ function LeetcodeTracker() {
       <li>See when you last practiced a questiong</li>
       <li>Get reminded to practice questions not practiced in a while</li>
      </ul>
-      <a class="text-white" href="https://leetcodetrackerclient.onrender.com">See here: <span class="text-cyan-500">https://leetcodetrackerclient.onrender.com</span> </a>
+     <div class="flex flex-col">
+         <a class="text-white" href="https://leetcodetrackerclient.onrender.com">See here: <span class="text-cyan-500">https://leetcodetrackerclient.onrender.com</span> </a>
+      
+        <a href="https://github.com/MichelleAFB/LeetcodeTracker-Client" class="text-white">Github:(Frontend)<span class="text-cyan-400">https://github.com/MichelleAFB/LeetcodeTracker-Client</span></a>
+        <a href="https://github.com/MichelleAFB/LeetcodeTracker" class="text-white ">Guthub(Backend):<span class="text-cyan-400">https://github.com/MichelleAFB/LeetcodeTracker</span></a>
+     </div>
+     
+
 
    </div>
  </div>
